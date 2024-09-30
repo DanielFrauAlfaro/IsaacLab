@@ -8,7 +8,7 @@
 #==
 # Configurations
 #==
-
+a
 # Exits if error occurs
 set -e
 
